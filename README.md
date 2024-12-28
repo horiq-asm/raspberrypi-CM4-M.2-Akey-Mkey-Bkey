@@ -1,3 +1,7 @@
+boot CM5 via NVMe behind PCIe switch !!!
+新たに入手したCM5を入れるとNMMEからbootできました。
+2024年12月クリスマスプレゼントです。
+
 ![IMG_6682](https://github.com/user-attachments/assets/0006e526-7fe7-4dfd-9951-1aecd8319946)
 
 # raspberrypi-CM4-M.2-Akey-Mkey-Bkey
