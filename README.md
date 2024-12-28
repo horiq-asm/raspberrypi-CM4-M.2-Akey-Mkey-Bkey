@@ -1,3 +1,5 @@
+![IMG_6682](https://github.com/user-attachments/assets/0006e526-7fe7-4dfd-9951-1aecd8319946)
+
 # raspberrypi-CM4-M.2-Akey-Mkey-Bkey
 raspberypi　CM4にpcie swich を載せてM.2基板を複数動作できる基板を作成しました。
 wifi6　１G　2.5Gのnicが動きます。
