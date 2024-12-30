@@ -1,6 +1,7 @@
 boot CM5 via NVMe behind PCIe switch !!!<br>
 新たに入手したCM5を入れるとNVMeからbootできました。
 2024年12月クリスマスプレゼントです。
+https://youtu.be/MDhNWYu6bRE
 
 ![IMG_6682](https://github.com/user-attachments/assets/0006e526-7fe7-4dfd-9951-1aecd8319946)
 
